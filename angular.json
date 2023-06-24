@@ -30,7 +30,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/bootstrap-icons.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/templatemo-first-portfolio-style.css"
+              
             ],
             "scripts": []
           },
